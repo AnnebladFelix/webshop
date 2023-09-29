@@ -2,8 +2,8 @@ import { Product } from "./types/Products";
 
 export const sampleProducts: Product[] = [
     {
-        name: 'Sample Product', 
-        slug: 'sample-product', 
+        name: 'Sample Product 1', 
+        slug: 'sample-product 1', 
         category: 'Sample Category', 
         description: 'Sample Description', 
         brand: 'Sample Brand', 
